@@ -1,0 +1,6 @@
+panel
+param
+langchain
+wikipedia
+python-dotenv
+langchain-community
